@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=campana+script&weight=900&size=31&pause=1000&color=00F706&center=true&vCenter=true&width=456&height=57&lines=Hi!+I+am+Shivansh+Kaushik)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=campana+script&weight=900&size=31&pause=1000&color=E60000&center=true&vCenter=true&width=456&height=57&lines=Hi!+I+am+Shivansh+Kaushik" alt="Typing SVG" /></a><p align="center">
+  <img src="/naruto-uzumaki-four-tails-rage-mode-gif-desktop-wallpaper.gif" width="1000"/>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on frontend web development projects.<br>👯 I’m looking to collaborate on hackathons and open-source projects.<br>🤝 I’m looking for help with backend and Machine learning Projects.<br>🌱 I’m currently learning MERN stack and Machine learning.<br>💬 Ask me about Java, frontend tech, or event management.<br>
 
