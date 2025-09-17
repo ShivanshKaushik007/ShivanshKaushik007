@@ -15,13 +15,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PhantomPhreak007&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ShivanshKaushik007&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomPhreak007&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshKaushik007&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=PhantomPhreak007&theme=dark&hide_border=true" alt="GitHub Streak" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ShivanshKaushik007&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
